@@ -1,0 +1,19 @@
+body
+{
+	color: green;
+	text-align: center;
+	font-family: "Arial";
+}
+#cajita
+{
+	width: 80%;
+	padding: 1em;
+	text-align: left;
+	border: 1px solid black;
+	margin: 0, auto;
+}
+
+#cajita h1
+{
+	font-size: 80px;
+}
