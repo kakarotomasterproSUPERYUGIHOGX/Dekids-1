@@ -1,2 +1,3 @@
 # Dekids
-Este respositorion sr´apara los dekidserrs
+Este respositorio es para los fabulosos dekidsers del universo :3
+
